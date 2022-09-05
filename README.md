@@ -1,5 +1,5 @@
 # Odin
-Road to becoming a Full Stack Web Developer.
+Learning from time to time.
 
 # Lesson 1
 Modify Readme through Visual Code and Commit to Branch.
